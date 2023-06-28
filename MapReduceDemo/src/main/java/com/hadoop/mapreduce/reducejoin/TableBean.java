@@ -10,7 +10,7 @@ public class TableBean implements Writable {
 
     private String id;//订单id
     private String pid;//商品id
-    private int amount;//
+    private int amount;//商品数量
     private String pname;//商品名称
     private String flag;//标记是什么表    order / pd
 
